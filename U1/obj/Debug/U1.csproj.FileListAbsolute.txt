@@ -1,0 +1,10 @@
+C:\Users\jpywa\source\repos\U1\bin\Debug\U1.exe.config
+C:\Users\jpywa\source\repos\U1\bin\Debug\U1.exe
+C:\Users\jpywa\source\repos\U1\bin\Debug\U1.pdb
+C:\Users\jpywa\source\repos\U1\obj\Debug\U1.Form1.resources
+C:\Users\jpywa\source\repos\U1\obj\Debug\U1.Properties.Resources.resources
+C:\Users\jpywa\source\repos\U1\obj\Debug\U1.csproj.GenerateResource.cache
+C:\Users\jpywa\source\repos\U1\obj\Debug\U1.csproj.CoreCompileInputs.cache
+C:\Users\jpywa\source\repos\U1\obj\Debug\U1.exe
+C:\Users\jpywa\source\repos\U1\obj\Debug\U1.pdb
+C:\Users\jpywa\source\repos\U1\obj\Debug\U1.csproj.AssemblyReference.cache
